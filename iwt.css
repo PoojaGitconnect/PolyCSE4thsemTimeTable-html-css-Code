@@ -1,0 +1,542 @@
+.a{
+    background-color: rgb(25, 96, 96) ;
+    color: black;
+    font-size: 25px;
+ }
+ .b{
+ 
+ background-color: rgb(60, 146, 149);
+    color: black;
+    font-size: 20px;
+ }
+ .c{
+    background-color: rgb(20, 70, 70);
+    color:black;
+    font-size: 40px;
+ }
+ .d{
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+ .e{
+
+
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+.f{
+     background-color: cornflowerblue;
+     color: black;
+     font-size: medium;
+
+ }
+ .g{  
+
+
+    background-color: rgb(230, 174, 91);
+    color: black;
+    font-size: medium;
+
+ }
+ .h{
+    background-color: rgb(159, 53, 64);
+    color: black;
+    font-size: medium;
+
+ }
+ .i{
+    background-color:rgb(210, 148, 32);
+    color: black;
+    font-size: medium;
+
+ }
+ .j{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .k{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .xyz{
+  
+  
+    background-color:rgb(249, 96, 139);
+    color: black;
+    font-size: medium;
+
+ }
+.abc{
+
+
+    background-color:rgb(139, 95, 205);
+    color: black;
+    font-size: medium;
+
+}
+.z{
+
+    background-color:rgb(80, 128, 239);
+    color: black;
+    font-size: medium;
+
+}
+.r{
+
+
+
+    background-color:rgb(178, 71, 155);
+    color: black;
+    font-size: medium;
+
+}
+.p{
+
+
+
+    background-color:rgb(241, 136, 187);
+    color: black;
+    font-size: medium;
+
+
+}
+.y{
+
+    background-color: rgb(203, 152, 35);
+    color: black;
+    font-size: medium;
+
+
+}
+.gap{
+
+
+    background-color: yellow;
+    color: black;
+    font-size: medium;
+}
+.days{
+
+
+
+    background-color: rgb(215, 215, 67);
+    color: black;
+    font-size: medium;
+
+
+
+}
+ 
+
+ .lab::after {
+   content: "💻";
+   display: inline-block;
+   margin-left: 10px;
+}
+
+
+
+
+
+
+
+ .a{
+    background-color: rgb(25, 96, 96) ;
+    color: black;
+    font-size: 25px;
+ }
+ .b{
+ 
+ background-color: rgb(60, 146, 149);
+    color: black;
+    font-size: 20px;
+ }
+ .c{
+    background-color: rgb(20, 70, 70);
+    color:black;
+    font-size: 40px;
+ }
+ .d{
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+ .e{
+
+
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+.f{
+     background-color: cornflowerblue;
+     color: black;
+     font-size: medium;
+
+ }
+ .g{  
+
+
+    background-color: rgb(230, 174, 91);
+    color: black;
+    font-size: medium;
+
+ }
+ .h{
+    background-color: rgb(159, 53, 64);
+    color: black;
+    font-size: medium;
+
+ }
+ .i{
+    background-color:rgb(210, 148, 32);
+    color: black;
+    font-size: medium;
+
+ }
+ .j{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .k{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .xyz{
+  
+  
+    background-color:rgb(249, 96, 139);
+    color: black;
+    font-size: medium;
+
+ }
+.abc{
+
+
+    background-color:rgb(139, 95, 205);
+    color: black;
+    font-size: medium;
+
+}
+.z{
+
+    background-color:rgb(80, 128, 239);
+    color: black;
+    font-size: medium;
+
+}
+.r{
+
+
+
+    background-color:rgb(178, 71, 155);
+    color: black;
+    font-size: medium;
+
+}
+.p{
+
+
+
+    background-color:rgb(241, 136, 187);
+    color: black;
+    font-size: medium;
+
+
+}
+.y{
+
+    background-color: rgb(203, 152, 35);
+    color: black;
+    font-size: medium;
+
+
+}
+.gap{
+
+
+    background-color: yellow;
+    color: black;
+    font-size: medium;
+}
+.days{
+
+
+
+    background-color: rgb(215, 215, 67);
+    color: black;
+    font-size: medium;
+
+
+
+}
+ 
+
+ .lab::after {
+   content: "💻";
+   display: inline-block;
+   margin-left: 10px;
+}
+
+
+
+
+
+
+
+ 
+
+
+ 
+.a{
+    background-color: rgb(25, 96, 96) ;
+    color: black;
+    font-size: 25px;
+ }
+ .b{
+ 
+ background-color: rgb(60, 146, 149);
+    color: black;
+    font-size: 20px;
+ }
+ .c{
+    background-color: rgb(20, 70, 70);
+    color:black;
+    font-size: 40px;
+ }
+ .d{
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+ .e{
+
+
+    background-color: rgb(112, 186, 112);
+    color: black;
+    font-size: medium;
+ }
+.f{
+     background-color: cornflowerblue;
+     color: black;
+     font-size: medium;
+
+ }
+ .g{  
+
+
+    background-color: rgb(230, 174, 91);
+    color: black;
+    font-size: medium;
+
+ }
+ .h{
+    background-color: rgb(159, 53, 64);
+    color: black;
+    font-size: medium;
+
+ }
+ .i{
+    background-color:rgb(210, 148, 32);
+    color: black;
+    font-size: medium;
+
+ }
+ .j{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .k{
+
+
+    background-color:rgb(230, 26, 84);
+    color: black;
+    font-size: medium;
+
+ }
+ .xyz{
+  
+  
+    background-color:rgb(249, 96, 139);
+    color: black;
+    font-size: medium;
+
+ }
+.abc{
+
+
+    background-color:rgb(139, 95, 205);
+    color: black;
+    font-size: medium;
+
+}
+.z{
+
+    background-color:rgb(80, 128, 239);
+    color: black;
+    font-size: medium;
+
+}
+.r{
+
+
+
+    background-color:rgb(178, 71, 155);
+    color: black;
+    font-size: medium;
+
+}
+.p{
+
+
+
+    background-color:rgb(241, 136, 187);
+    color: black;
+    font-size: medium;
+
+
+}
+.y{
+
+    background-color: rgb(203, 152, 35);
+    color: black;
+    font-size: medium;
+
+
+}
+.gap{
+
+
+    background-color: yellow;
+    color: black;
+    font-size: medium;
+}
+.days{
+
+
+
+    background-color: rgb(215, 215, 67);
+    color: black;
+    font-size: medium;
+
+
+
+}
+ 
+
+ .lab::after {
+   content: "💻";
+   display: inline-block;
+   margin-left: 10px;
+}
+
+.info {
+   display: flex;
+   align-items: center;
+   gap: 15px; /* Adjusted for smaller screens */
+   justify-content: center;
+   margin-top: 20px;
+   padding: 12px 20px;
+   background: #f4f4f4;
+   border-radius: 10px;
+   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+   flex-wrap: wrap; /* Allows wrapping on smaller screens */
+   text-align: center;
+}
+
+.name {
+   font-size: 1.2rem;
+   font-weight: bold;
+   color: #333;
+   text-align: center;
+}
+
+/* Icons */
+.info a {
+   text-decoration: none;
+   transition: transform 0.3s ease-in-out;
+}
+
+.info a:hover {
+   transform: scale(1.2);
+}
+
+.info i {
+   font-size: 1.8rem; /* Adjusted for smaller screens */
+   color: #333;
+   transition: color 0.3s;
+}
+
+/* Icon colors */
+.info a:nth-child(2) i { color: #333; } /* GitHub */
+.info a:nth-child(3) i { color: #0077b5; } /* LinkedIn */
+.info a:nth-child(4) i { color: #ea4335; } /* Gmail */
+
+.info a:hover i {
+   color: #ff9800; /* Orange hover effect */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+   .info {
+      flex-direction: column; /* Stack elements */
+      gap: 10px;
+      padding: 10px;
+   }
+
+   .name {
+      font-size: 1rem;
+   }
+
+   .info i {
+      font-size: 1.5rem;
+   }
+}
+
+@media (max-width: 480px) {
+   .info {
+      padding: 8px;
+   }
+
+   .name {
+      font-size: 0.9rem;
+   }
+
+   .info i {
+      font-size: 1.3rem;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+ 
+
